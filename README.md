@@ -1,7 +1,7 @@
 # lista-tres-java-una
 Lista de exercícios três em java
 
-Meu perfil no LinkedIn é Duck Duck Go .
+Meu perfil no LinkedIn é  https://www.linkedin.com/in/gabriela-amorim-60526b275/
 
 Tecnologias utilizadas
 
